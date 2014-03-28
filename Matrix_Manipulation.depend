@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1396032317 source:/home/segfault/Documents/Matrix_Manipulation/Matrix.cpp
+	"Matrix.h"
+
+1396032320 /home/segfault/Documents/Matrix_Manipulation/Matrix.h
+	<string.h>
+	<iostream>
+	<cstdlib>
+
